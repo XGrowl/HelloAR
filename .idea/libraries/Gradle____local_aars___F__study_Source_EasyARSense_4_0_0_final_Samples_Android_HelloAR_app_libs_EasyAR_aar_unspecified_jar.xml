@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:F.\study\Source\EasyARSense_4.0.0-final_Samples_Android\HelloAR\app\libs\EasyAR.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://D:/Android_configration/.gradle/caches/transforms-2/files-2.1/8f40b13df312402fecf340adf9edc868/EasyAR/jars/classes.jar!/" />
+      <root url="file://D:/Android_configration/.gradle/caches/transforms-2/files-2.1/8f40b13df312402fecf340adf9edc868/EasyAR/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="MyDialogAnimation">
+        <!--进入 -->
+        <item name="android:windowEnterAnimation">@anim/x_in</item>
+        <!--退出-->
+        <item name="android:windowExitAnimation">@anim/x_out</item>
+        <!--        <item name="android:windowSoftInputMode">adjustPan|adjustResize</item>-->
+    </style>
+</resources>
